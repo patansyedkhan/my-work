@@ -1,0 +1,1042 @@
+<!DOCTYPE html>
+<html >
+<head>
+    
+    <title>stand with ukraine donate to support</title>
+        
+<link rel="stylesheet" type="text/html" href="css/mail.css">
+
+</head>
+
+    </head>
+    <body>
+      <nav>
+        
+        <label class="logo"><center id="col">  <p>stand with ukrine donate to support</p></center>
+        </label>
+		
+		<ul>
+		
+            <li class="active"><a href="#">Email Testing</a></li>
+            <li ><a href="#">Email Sending</a></li>
+            <li><a href="#">pricing</a></li>
+			
+            <li><a href="#">............</a></li>
+			
+           <li><a href="file:///C:/Users/P%20Syed%20khan/OneDrive/Desktop/LOGIN.HTML#">login</a></li>
+		   
+             <li><a href="file:///C:/Users/P%20Syed%20khan/OneDrive/Desktop/SIGN%20IN.HTML" >Sign up</a></li>
+
+            
+			</ul> 
+       
+             </nav>
+             
+      
+
+        
+        <div id="logo">
+
+<img src="https://mailtrap.io/wp-content/uploads/2023/01/mailtrap-logo-inverse.svg" class="telu">
+ <br><CENTER><H1><p style="color:#fff;">TEST-SEND-CONTROL</p></H1></br>
+ 
+   <br> <span><h4><p style="color:#fff;"> Email delievery platform that delievers just in time. great for</p> </h4></span></br>
+	
+   <br> <h4><p style="color:#fff;">  business and individuals</h4></p></br>
+    
+<button class="bt"> <li><a href="file:///C:/Users/P%20Syed%20khan/OneDrive/Desktop/SIGN%20IN.HTML" style="color:white;"</a>Sign up for free</li></button>
+<button class="bn"> <li><a href="#" style="color:white;"></a> API Docs</li></button>
+
+
+
+
+   <p style="color:#fff;">No creditcrad required</p></CENTER>
+    
+ <div>
+<center><img src="https://mailtrap.io/wp-content/uploads/2022/12/home-hero-image-1920x901.png" id="logo1"></center>
+</div>
+
+<CENTER><H2>Trusted by 150000+monthly active users</H2></CENTER>
+<div id="calendy">
+    
+ <img src="https://mailtrap.io/wp-content/uploads/2022/12/06.svg">
+ 
+
+
+    <img src="https://mailtrap.io/wp-content/uploads/2022/12/05.svg"> 
+
+
+
+    <img src="https://mailtrap.io/wp-content/uploads/2022/12/04.svg">
+
+<img src="https://mailtrap.io/wp-content/uploads/2022/12/Atlassian.svg">
+
+<img src="https://mailtrap.io/wp-content/uploads/2022/12/yelp.svg">
+
+<img src="https://mailtrap.io/wp-content/uploads/2022/12/PayPal.svg">
+</div>
+<pre>
+<center>
+<h1 style="font-size:40px;">Test emails</h1>
+<h2>Use Email Sandbox to inspect and debug emails in staging, dev, and QA environments before 
+sending them to recipients in production</h2>
+<center>
+
+<pre>
+<button class="btn"> <li><a href="file:///C:/Users/P%20Syed%20khan/OneDrive/Desktop/SIGN%20IN.HTML" style="color:white;"</a> Sign Up for Free</li></button> <button class="btm"> <li><a href="#" style="color:white;"></a> LearnMore</li></button>
+
+
+</pre>
+
+
+<img src="https://mailtrap.io/wp-content/uploads/2022/12/test-email-picture.png" class="img">
+<img src="C:\Users\P Syed khan\OneDrive\Documents\img.png" class="hh">
+<pre>
+<h2 class="h2">
+Spam
+checker
+</h2>
+</pre>
+<pre>
+<img src="C:\Users\P Syed khan\OneDrive\Documents\img.png" class="hf">
+<pre>
+<h2 class="h1">
+Emails 
+preview
+</h2>
+</pre>
+
+<img src="C:\Users\P Syed khan\OneDrive\Documents\img.png" class="yy">
+<pre>
+<h2 class="syed">
+Email
+forwarding
+</h2>
+</pre>
+
+<img src="C:\Users\P Syed khan\OneDrive\Documents\img.png" class="sy">
+
+<pre>
+<h2 class="gg">
+Multiple
+inboxes
+</h2>
+</pre>
+<h2 class="nn">20+ code integrations</h2>
+<pre class="vv">
+<img src="https://mailtrap.io/wp-content/uploads/2022/12/rails.svg">  <img src="https://mailtrap.io/wp-content/uploads/2022/12/java.svg">  <img src="https://mailtrap.io/wp-content/uploads/2022/12/php.svg">  <img src="https://mailtrap.io/wp-content/uploads/2022/12/net.svg">  <img src="https://mailtrap.io/wp-content/uploads/2022/12/python.svg">  <img src="https://mailtrap.io/wp-content/uploads/2022/12/js.svg">
+</pre>
+
+
+<pre class="zz">
+<img src="https://mailtrap.io/wp-content/uploads/2022/12/icon-fake-email.svg">                             <img src="https://mailtrap.io/wp-content/uploads/2022/12/icon-api.svg">                             <img src="https://mailtrap.io/wp-content/uploads/2022/12/icon-html-checker.svg">
+</pre>
+<pre class="as">
+<h1>Fake SMTP</h1>
+Catch testing emails from 
+staging. Preview each email in
+your Mailtrap inbox. Never send
+test emails to the users by 
+        mistake.
+</pre>
+                                                 
+
+	<pre class="dd">  
+<h1>QA Automation</h1>
+Cover all your testing scenarios
+with Sandbox API. Integrate with
+your favorite environment. Run 
+automated tests and validate 
+each email. 
+</pre>	  
+<pre class="bb">	  
+<h1>HTML Check</h1>
+Validate HTML/CSS of your
+email templates. See how 
+different popular clients will
+treat your emails – on web,
+mobile, and desktop.
+
+</pre>
+
+<div class="cc">
+<h1 style="font-size:40px;">Send emails</h1>
+Email API/SMTP that does the job: reaches recipients’ inboxes just in time.
+Email infrastructure that ensures high deliverability by default.
+</div>
+
+
+<pre>
+<button class="kk"> <li><a href="file:///C:/Users/P%20Syed%20khan/OneDrive/Desktop/SIGN%20IN.HTML" style="color:white;"</a> Sign Up for Free</li></button>  <button class="jj"> <li><a href="#" style="color:white;"></a> LearnMore</li></button>
+
+
+<pre class="top">
+<h2> 
+                 
+				 
+                Email API/SMTP Service
+				
+
+           SPF, DKIM, DMARC
+		   
+
+              Email body preview
+			  
+
+           Email templates
+		   
+
+         Dedicated IPs
+		 
+
+                ~1 sec delivery time
+</h2>
+</pre>
+
+
+<pre>
+<img src="C:\Users\P Syed khan\OneDrive\Documents\img.png" class="hi">
+
+<img src="C:\Users\P Syed khan\OneDrive\Documents\img.png"class="hi">
+
+<img src="C:\Users\P Syed khan\OneDrive\Documents\img.png"class="hi">
+
+
+<img src="C:\Users\P Syed khan\OneDrive\Documents\img.png"class="hi">
+
+
+<img src="C:\Users\P Syed khan\OneDrive\Documents\img.png"class="hi">
+
+
+<img src="C:\Users\P Syed khan\OneDrive\Documents\img.png"class="hi">
+
+</pre>
+
+
+<img src="https://mailtrap.io/wp-content/uploads/2022/12/send-email-picture.png" class="pat">
+
+
+<pre class="tt">
+     <img src="https://mailtrap.io/wp-content/uploads/2022/12/icon-smtp.svg">                            <img src="https://mailtrap.io/wp-content/uploads/2022/12/icon-tracking.svg">                             <img src="https://mailtrap.io/wp-content/uploads/2022/12/icon-support.svg">
+</pre>
+
+
+<div class="asu">
+<h1>Email API/SMTP</h1>
+Use SMTP for quick and easy 
+integration with your application
+to start sending emails in 
+minutes. Or Email API for even
+better flexibility.
+
+</div>
+<pre class="er">
+<h1>In-depth tracking</h1>
+Dashboards with all key email
+metrics to provide you with a 
+comprehensive and clear
+snapshot of the state of your
+     emails.
+	   </pre>
+<div class="qq"> 
+	   <h1>Proactive Support</h1>
+Our tech support team consists
+of engineers and deliverability
+experto assist you with any issue.
+
+	 </div> 
+
+
+
+
+<div class="pp">
+
+<h1 style="font-size:40px;">Control emails</h1>
+Leverage Actionable Analytics to control your email infrastructure performance.
+Catch and fix unexpected sending issues easy and fast.	 
+</div>
+
+
+<pre>
+<button class="rr"> <li><a href="file:///C:/Users/P%20Syed%20khan/OneDrive/Desktop/SIGN%20IN.HTML" style="color:white;"</a> Sign Up for Free</li></button> <button class="aa"> <li><a href="#" style="color:black;"</a> LearnMore</li></button>
+
+
+</pre>
+
+
+<img src="https://mailtrap.io/wp-content/uploads/2022/12/control-email-picture.png" class="zp">
+
+
+<pre class="you">
+ <h2>         Dashboards
+		 
+                    Deliverability alerts
+					
+         Email logs
+		 
+        Webhooks
+		
+                        Open and clicks tracking
+						
+                           G.Workspace, O365, Outlook
+       stats
+</h2>
+</pre>
+
+<pre>
+<img src="C:\Users\P Syed khan\OneDrive\Documents\img.png" class="h">
+<img src="C:\Users\P Syed khan\OneDrive\Documents\img.png"class="h">
+<img src="C:\Users\P Syed khan\OneDrive\Documents\img.png"class="h">
+<img src="C:\Users\P Syed khan\OneDrive\Documents\img.png"class="h">
+<img src="C:\Users\P Syed khan\OneDrive\Documents\img.png"class="h">
+<img src="C:\Users\P Syed khan\OneDrive\Documents\img.png"class="h">
+
+</pre>
+
+<pre class="my">
+<img src="https://mailtrap.io/wp-content/uploads/2022/12/icon-alerts.svg">                                       <img src="https://mailtrap.io/wp-content/uploads/2022/12/icon-logs.svg">                       <img src="https://mailtrap.io/wp-content/uploads/2022/12/icon-stats.svg">
+
+</pre>
+
+<div class="study">
+<h1 style="font-size:25px;">Deliverability Alerts.</h1>
+Regular weekly reports with 
+week-on-week comparison to 
+monitor your deliverability
+trends and critical alerts if your
+metrics suddenly drop.
+</div>
+<div class="but">
+<h1 style="font-size:25px;">60-day logs</h1>
+Use email logs for fast and in-
+depth troubleshooting. Check
+email preview, history, HTML,
+spam analysis and extended 
+email info.
+</div>
+
+
+<div class="what">
+
+<h1 style="font-size:25px;">Stats overview</h1>
+Helicopter view and in-depth
+color-coded dashboards with
+key email metrics. To get full 
+control over your email
+infrastructure performance.
+</div>
+<div id="man">
+
+
+<h1 class="can">From our #BestClientEver</h1>
+
+<pre>
+<button class="eg"><li><a href="file:///C:/Users/P%20Syed%20khan/OneDrive/Desktop/LOGIN.HTML#" style="text-decoration:none; color:white; ">Login</a></li></button>  <button class="e"><li><a href="file:///C:/Users/P%20Syed%20khan/OneDrive/Desktop/SIGN%20IN.HTML" style="text-decoration:none; color:white; ">sign up </a></li></button>
+</pre>
+
+
+
+
+
+
+
+
+<div class="dropdown">
+  <button class="dropbtn">Resources</button>
+  <div class="dropdown-content">
+  <a href="#"> <img src="https://mailtrap.io/wp-content/uploads/2022/06/Transactional-Email-Sending_icon-09.svg" width="90px;" height="60px;"><h1>API</h1>
+   Integrate with existing resource</a>
+  <a href="#"><img src="https://mailtrap.io/wp-content/uploads/2022/06/Transactional-Email-Sending_icon-08.svg" width="70px; height=20px;"><h1>Case Studies</h1> Success stories of our customer</a>
+  <a href="#"><img src="https://mailtrap.io/wp-content/uploads/2022/06/Transactional-Email-Sending_icon-07.svg" width="70px; height=20px;"><h1>Blog</h1> The best contents about email</a>
+  <a href="#"><img src="https://mailtrap.io/wp-content/uploads/2022/03/Transactional-Email-Sending_icon-06.svg" width="70px; height=20px;"><h1>Help</h1> HOW-to's and Knowledge base</a>
+  
+  </div>
+</div>
+
+
+<img src="https://th.bing.com/th/id/OIP.IPdPzGOK5SDsgTKER4SjSwHaGv?w=199&h=181&c=7&r=0&o=5&dpr=1.8&pid=1.7" width="10%" height="20%" class="vv">
+
+
+
+                  
+
+ </body>
+ </html>
+
+
+
+<style>
+.vv{
+position:relative;
+top:-400px;
+left:70px;
+}
+
+
+.dropbtn {
+  background-color: #1a2e44;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  width:40px;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  top:-5135px;
+  left:-75px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  width:300px;
+  border-radius:10px;
+  
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: #1a2e44;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   .eg{
+   position:relative;
+   top:-4935px;
+   left:+100px;
+   background-color:#1a2e44;
+   border-color:white;
+   height:40px;
+   width:80px;
+   border-radius:7px;
+   color:black;
+   list-style-type:none;
+  }
+    
+   .e{
+   position:relative;
+   top:-4936px;
+   left:+100px;
+   background-color:#22d172;
+   border-color:#22d172;
+   height:40px;
+   width:80px;
+   border-radius:7px;
+   color:white;
+   list-style-type:none;
+   
+  } 
+.eg:focus{
+
+	outline-color:transparent;
+	outline-style:solid;
+	box-shadow:0 0 0 1px #22d172;
+	
+	transition:0.7s;
+	}
+   
+.telu{
+position:relative;
+top:-30px;
+left:+90px
+}
+
+
+
+
+
+
+.can{
+position:relative;
+top:-2px;
+left:-300px;
+color:white;
+
+}
+#man{
+        height: 550px;
+        background-color:rgba(3, 20, 38, 0.685);/for browesers that do not support gradients/
+  font-style: white;
+  margin-top: 100px;
+  position:relative;
+  top:-3110px;
+  left:+1px;
+  width:1700px;
+}
+
+
+
+
+
+
+
+
+.what{
+position:relative;
+top:-3110px;
+left:+380px;
+
+}
+.but{
+position:relative;
+top:-2915px;
+left:+70px;
+
+}
+.study{
+position:relative;
+top:-2770px;
+left:-270px;
+
+}
+.my{
+position:relative;
+top:-2720px;
+left:+20px;
+
+}
+
+
+
+.h{
+position:relative;
+top:-2870px;
+left:+205px;
+height:40px
+}
+
+.you{
+position:relative;
+top:-2550px;
+left:+240px;
+
+}
+
+.zp{
+position:relative;
+top:-2140px;
+left:-190px;
+width:510px;
+height:400px;
+}
+
+
+.rr{
+color:white;
+background-color:#22d172;
+border:lime;
+width:120px;
+height:40px;
+border-radius:7px;
+position:relative;
+top:-2140px;
+left:-1px;
+
+}
+
+.aa{
+color:black;
+background-color:;
+border-color: liteblack;
+width:120px;
+height:40px;
+border-radius:7px;
+position:relative;
+top:-2140px;
+left:-1px;
+}
+.pp{
+position:relative;
+top:-2140px;
+left:-1px;
+
+}
+.qq{
+position:relative;
+top:-2180px;
+left:300px;
+}
+
+.er{
+position:relative;
+top:-2000px;
+left:-5px;
+}
+
+.asu{
+position:relative;
+top:-1860px;
+left:-360px;
+
+}
+.tt{
+position:relative;
+top:-1790px;
+left:-40px;
+
+}
+.pat{
+position:relative;
+top:-1800px;
+left:230px;
+width:510px;
+height:400px;
+}
+.hi{
+position:relative;
+top:-1400px;
+left:-360px;
+height:40px
+}
+
+
+.top{
+position:relative;
+top:-970px;
+left:-300px;
+
+}
+
+.jj{
+position:relative;
+top:-1000px;
+color:black;
+background-white;
+border-color: liteblack;
+width:150px;
+height:40px;
+border-radius:7px;
+}
+.kk{
+position:relative;
+top:-1000px;
+color:white;
+background-color:#22d172;
+border:lime;
+width:150px;
+height:40px;
+border-radius:7px;
+text-align:center;
+}
+
+
+
+.cc{
+position:relative;
+top:-1000px;
+left:-100px;
+
+}
+
+.as{
+position:relative;
+ top:-730px;
+left:-360px;
+}
+
+.dd{
+position:relative;
+ top:-920px;
+left:-60px;
+}
+.bb{
+position:relative;
+ top:-1078px;
+left:+270px;
+}
+
+
+
+.zz{
+position:relative;
+top:-750px;
+left:-50px
+}
+
+
+        *{padding: 0;
+        margin: 0;
+        text-decoration: none;
+        list-style: none;
+        box-sizing: border-box;
+    }
+	label.logo{
+	color:rgb(10,10,10);
+	font-size:3px;
+	padding:0 100px;
+	font-weight:bold;
+	
+	
+	
+	}
+	
+	
+	
+	
+	
+    body{
+        font-family: montserrat;
+    }
+    nav{
+        background: #1a2e44;
+        height: 80px;
+        width: 100%;
+    }
+    nav ul{
+        float: right;
+        margin-right: 20px;
+    }
+    nav ul li{
+        display: inline-block;
+        line-height: 80px;
+        margin: 0 5px;
+    }
+    nav ul li a{
+        color: white;
+        font-size: 17px;
+        padding: 7px 13px;
+        border-radius: 3px;
+        text-transform: ;
+    }
+
+    
+    .checkbtn{
+        font-size: 30px;
+        color: white;
+        float: right;
+        line-height: 80px;
+        margin-right: 40px;
+        cursor: pointer;
+         display: none;
+    }
+    #check{
+        display: none;
+    }
+    @media (max-width: 952px){
+        label.logo{
+            font-size: 30px;
+            padding-left: 50px;
+        }
+        nav ul li a{
+            font-size: 16px;
+        }
+    }
+      @media (max-width: 858px) {
+        .checkbtn{
+            display: block;
+        }
+        ul{
+            position: fixed;
+            width: 10%;
+            height: 100vh;
+            background: ;
+            top: 80px;
+            left:- 100;
+            text-align: center;
+            transition: all .5s;
+        }
+        nav ul li{
+            display: block;
+            margin: 50px 0;
+            line-height: 30px;
+
+        }
+        nav ul li a{
+            font-size: 20px;
+        }
+        a:hover,a.active{
+            background: none;
+            color: #0082e6;
+        }
+        #check:checked ~ ul{
+            left: 0;
+        }
+      }  
+    
+
+    
+    #logo{
+        height: 550px;
+		
+        background-color:#1a2e44;(0, 0, 255, 0.4);/for browesers that do not support gradients/
+        background-image: linear-gradient(to right,#2c495090,#000066);    
+
+    }
+    
+    .bt{
+    color:white;
+background-color:#22d172;
+	 border-color:#22d172;
+width:160px;
+height:45px;
+border-radius:7px;
+
+    }
+	.bt:hover{
+	background-color:lime;
+	transition:0.7s;
+	}
+
+	.bn{
+	color:white;
+	background-color:#1a2e44;
+	border-color:#22d172;
+	width:160px;
+	height:45px;
+	border-radius:7px;
+	
+	}
+	.bn:hover{
+	background-color:#22d172;
+	transition:0.7s;
+	}
+
+
+   
+#calendy{
+    display: flex;
+    margin:50px 50px;
+    padding: 50px 50px;
+    justify-content: space-between;
+}
+#row{
+    background-color:red;
+justify-content: center;
+}
+#col{
+    
+    color: #fff;
+    background-color: black ; 
+
+    
+}
+ #center{
+    padding-top: 50px;
+    
+ }
+ #java{
+    display: flex;
+    margin:50px 50px;
+    padding: 50px 50px;
+    justify-content: space-between;
+}
+#logo1{
+    align-items: center;
+    width: 900px;
+    height: 800px;
+}
+#test{
+ 
+    height: 500px;
+    width:50px;
+}
+ 
+    
+ 
+.con{
+    display: flex;
+}
+#man{
+        height: 550px;
+        background-color:#202c45(3, 20, 38, 0.685);/for browesers that do not support gradients/
+  font-style: white;
+  margin-top: 100px;
+}
+
+#center{
+    padding-left: 70px;
+}
+#ss{
+    float: right;
+    padding:100px;
+}
+.mail{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 80px;
+    padding-left: 60px;
+    justify-content: space-between;
+}
+.trp{
+    margin-top: 80px;
+}
+#sas{
+    padding-left: 50px;
+}
+.phone{
+    display: flex;
+}
+#fff{
+
+    display: flex;
+    margin:50px 50px;
+    padding: 50px 50px;
+    justify-content: space-between;
+}
+.cool{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 80px;
+    padding-left: 60px;
+    justify-content: space-between;
+}
+.mmp{
+    margin-top: 100px;
+}
+
+.btn{
+color:white;
+background-color:#22d172;
+border:lime;
+width:120px;
+height:40px;
+border-radius:7px;
+
+}
+
+.btm{
+color:black;
+background-white;
+border-color: liteblack;
+width:120px;
+height:40px;
+border-radius:7px;
+
+}
+.img{
+position:relative;
+width:450px;
+height:500px;
+left:-240px;
+
+
+}
+.hh{
+position:relative;
+top:-390px;
+left:90px;
+width:50px;
+height:40px;
+}
+.h2{
+position:relative;
+top:-460px;
+left:+150px;
+
+}
+
+.hf{
+position:relative;
+top:-450px;
+left:+90px;
+width:50px;
+height:40px;
+}
+.h1{
+position:relative;
+top:-520px;
+left:+155px;
+
+}
+.yy{
+position:relative;
+top:-703px;
+left:+260px;
+width:50px;
+height:40px;
+
+}
+.syed{
+position:relative;
+top:-770px;
+left:+335px;
+
+}
+.sy{
+position:relative;
+top:-760px;
+left:+250px;
+width:50px;
+height:40px;
+
+}
+
+.gg{
+position:relative;
+top:-840px;
+left:+320px;
+
+}
+.nn{
+position:relative;
+top:-800px;
+left:+200px;
+color:#717d89;
+
+
+}
+
+.vv{
+position:relative;
+top:-800px;
+left:+200px;
+
+}
+.bv{
+position:relative;
+
+color:white;
+background-color:#1a2e44;
+border-color:white;
+height:40px;
+
+}
+.btn:hover{opacity:2}
+
+.cv{
+position:relative;
+top:-2000px;
+left:-120px;
+
+}
+
+
+</style>
+
+
+
+
+
+
